@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou o André Luiz  
 
-<!--
-**andreluizmr09/andreluizmr09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre - UNINOVE)  
+📍 São Paulo - SP  
+📧 andreluizmr09@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Sou apaixonado por tecnologia e atualmente busco minha **primeira oportunidade em TI**.  
+Tenho facilidade em aprender, iniciativa e gosto de desafios que me permitam crescer profissionalmente e contribuir para o sucesso da empresa.  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens**: HTML, Python, JavaScript, Java  
+- **Banco de Dados**: MySQL  
+- **Ferramentas**: Word, Excel, PowerPoint, Outlook, Teams  
+- **IDEs**: VS Code, PyCharm, IntelliJ IDEA  
