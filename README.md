@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o André Luiz  
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre - UNINOVE)  
-📍 São Paulo - SP  
+📍 Vila Matilde - SP  
 📧 andreluizmr09@gmail.com  
 
 ---
@@ -13,7 +13,6 @@ Tenho facilidade em aprender, iniciativa e gosto de desafios que me permitam cre
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens**: HTML, Python, JavaScript, Java  
+- **Linguagens**: HTML5, Python, JavaScript, Java  
 - **Banco de Dados**: MySQL  
-- **Ferramentas**: Word, Excel, PowerPoint, Outlook, Teams  
 - **IDEs**: VS Code, PyCharm, IntelliJ IDEA  
