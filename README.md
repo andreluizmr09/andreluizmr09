@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o André Luiz  
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre - UNINOVE)  
+💻 Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre - UNINOVE)  
 📍 Vila Matilde - SP  
 📧 andreluizmr09@gmail.com  
 
