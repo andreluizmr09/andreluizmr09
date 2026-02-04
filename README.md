@@ -7,8 +7,9 @@
 ---
 
 ## 🚀 Sobre mim
-**Estudante de tecnologia | Em busca da primeira oportunidade em TI**
-Aprendizado contínuo, iniciativa e foco em soluções..  
+**Estudante de tecnologia | Em busca da primeira oportunidade em TI** <br>
+Sou interessado em tecnologia e atualmente busco minha primeira oportunidade na área de TI.
+Tenho facilidade em aprender, iniciativa e gosto de desafios que me permitam evoluir profissionalmente e contribuir com soluções práticas para a empresa.
 
 ---
 
