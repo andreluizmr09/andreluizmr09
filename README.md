@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 Sobre mim
-Sou apaixonado por tecnologia e atualmente busco minha **primeira oportunidade em TI**.  
-Tenho facilidade em aprender, iniciativa e gosto de desafios que me permitam crescer profissionalmente e contribuir para o sucesso da empresa.  
+**Estudante de tecnologia | Em busca da primeira oportunidade em TI**
+Aprendizado contínuo, iniciativa e foco em soluções..  
 
 ---
 
