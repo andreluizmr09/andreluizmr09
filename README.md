@@ -14,6 +14,6 @@ Tenho facilidade em aprender, iniciativa e gosto de desafios que me permitam evo
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens**: HTML5, Python, JavaScript, Java  
+- **Linguagens**: HTML5, Python, JavaScript, Java, C#  
 - **Banco de Dados**: MySQL  
 - **IDEs**: VS Code, PyCharm, IntelliJ IDEA  
